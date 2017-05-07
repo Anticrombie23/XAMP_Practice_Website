@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 2, 2017, 11:37:36 AM
+    Author     : joshh
+*/
+
+input[type = 'radio']{
+    transform:scale(1.25);
+}
+
+table {
+    font-family: courier new;
+    font-size: 1.2ems;
+}
+
+td {
+    color: #0000ff;
+    text-align: left;
+    width: 50%;
+    padding-right: 15px;
+}
+
+th{
+    color: #000;
+    font-weight: bold;
+    text-align: left;
+    width: 50%;
+    padding-right: 15px;
+}
+
+
+
+
+
+
